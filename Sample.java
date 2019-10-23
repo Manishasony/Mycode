@@ -1,5 +1,5 @@
 /*created by manisha
-default method sample program
+static method sample program
  */
 package DefaultMethod;
 interface MyInterface{
