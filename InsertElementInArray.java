@@ -1,6 +1,6 @@
 /*created by manisha
  *to insert an element in array first we traverse array from the last index upto the position
- * if we find position of element we shift elements to next by next index
+ * if we find position of element we shift elements to next by next index(forward shifting)
  * after shifting we insert element in array
  */
 package InsertElementArray;
